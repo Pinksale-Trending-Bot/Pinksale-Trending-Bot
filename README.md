@@ -9,6 +9,8 @@ This is a Pinksale Trending Bot which will make any Project Trending on any posi
   <a href="#features">Features</a>
   •
   <a href="#installation">Installation</a>
+  •
+  <a href="#Youtube">Youtube</a>
    •
   <a href="#Contact">Contact</a>
 </p>
@@ -41,6 +43,10 @@ If you are interested on this bot message me on Telegram [@OnlyOne-CatDev](https
 6) Run bot.bat 
 
 Else I wll guide the full installation and help you to install the bot properly.
+
+## Youtube
+Find me on Youtube : https://www.youtube.com/channel/UCiDQO05mD16CQ8yDiWAsHCw
+Pinksal Trending Video : https://youtu.be/RZ4WRWwfc7M
 
 # Contact
 
