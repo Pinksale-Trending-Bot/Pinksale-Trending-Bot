@@ -9,6 +9,8 @@ This is a Pinksale Trending Bot which will make any Project Trending on any posi
   <a href="#features">Features</a>
   •
   <a href="#installation">Installation</a>
+   •
+  <a href="#Contact">Contact</a>
 </p>
 
 ## About
