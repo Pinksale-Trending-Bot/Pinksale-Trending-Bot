@@ -49,7 +49,7 @@ Else I wll guide the full installation and help you to install the bot properly.
 ## Youtube
 Find me on Youtube : [https://www.youtube.com/channel/UCO2SROJOT4yB1yoHLRIlDaA](https://www.youtube.com/channel/UCO2SROJOT4yB1yoHLRIlDaA)
 
-Pinksale Trending Bot Video : [https://youtu.be/RZ4WRWwfc7M]([https://youtu.be/e4l0EBy9-1A]
+Pinksale Trending Bot Video : [https://youtu.be/RZ4WRWwfc7M]([https://youtu.be/e4l0EBy9-1A
 
 # Contact
 
