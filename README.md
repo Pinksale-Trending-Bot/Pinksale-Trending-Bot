@@ -35,6 +35,7 @@ If you are interested on this bot message me on Telegram [@PinksaleTrending_dev]
 - Click Listing platform link ✓
 - Click token lock link ✓
 - Scrolling the full page ✓
+- **Pinksale Trending Bot Video TUTORIAL : https://youtu.be/e4l0EBy9-1A**
 
 ## Installation
 1) Get the Zip password from [@PinksaleTrending_dev](https://t.me/PinksaleTrending_dev) and Extract the file. ( If you buy it from the store, the password comes automatically with the bot**** )
@@ -49,7 +50,7 @@ Else I wll guide the full installation and help you to install the bot properly.
 ## Youtube
 Find me on Youtube : [https://www.youtube.com/channel/UCO2SROJOT4yB1yoHLRIlDaA](https://www.youtube.com/channel/UCO2SROJOT4yB1yoHLRIlDaA)
 
-Pinksale Trending Bot Video : https://youtu.be/e4l0EBy9-1A
+Pinksale Trending Bot Video TUTORIAL : https://youtu.be/e4l0EBy9-1A
 
 # Contact
 
