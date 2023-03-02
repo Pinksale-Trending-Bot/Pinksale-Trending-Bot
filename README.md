@@ -19,6 +19,7 @@ This is a Pinksale Trending Bot which will make any Project Trending on any posi
 A Pinksale trending bot makes your token trending on pinksale.
 
 If you are interested on this bot message me on Telegram [@PinksaleTrending_dev](https://t.me/PinksaleTrending_dev)
+**Or you can purchase it without waiting to talk with me on : https://pinksaletrendingbot.mysellix.io/  (currently purchase it online will benefit for -10% discount)**
 
 ## Features
 - Click KYC,AUDIT,DOXX,SAFU ✓
@@ -35,7 +36,7 @@ If you are interested on this bot message me on Telegram [@PinksaleTrending_dev]
 - Scrolling the full page ✓
 
 ## Installation
-1) Get the Zip password from [@PinksaleTrending_dev](https://t.me/PinksaleTrending_dev) and Extract the file.
+1) Get the Zip password from [@PinksaleTrending_dev](https://t.me/PinksaleTrending_dev) and Extract the file. ( If you buy it from the store, the password comes automatically with the bot**** )
 2) Run Setup.bat 
 3) Copy the Pinksale Link of your token & Paste it into the Config.json 
 4) Get Rotating proxies from webshare.io or you can easily buy bit cheaper from me.
